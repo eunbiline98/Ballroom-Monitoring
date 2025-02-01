@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "../../.."
+    },
+    {
+      "name": "ballroom_dht22",
+      "path": ".."
+    },
+    {
+      "name": "ballroom_pzem004",
+      "path": "../../ballroom_pzem004"
+    },
+    {
+      "name": "gabungan",
+      "path": "../../gabungan"
+    }
+  ],
+  "settings": {}
+}
